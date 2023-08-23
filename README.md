@@ -243,7 +243,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![WhatsApp Image 2023-08-23 at 10 55 52](https://github.com/Balachandran143/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118886489/cc76ea0a-6406-4a39-b245-f00b73daa8cb)
+<img height=50% width=50% src="https://github.com/Balachandran143/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118886489/cc76ea0a-6406-4a39-b245-f00b73daa8cb">
 
  
 ## Result :
