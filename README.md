@@ -3,9 +3,6 @@
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
-
- 
-  
 ## Procedure:
 1. Open a new STM32 Project
 2. Selecting GPIO Ports
@@ -243,7 +240,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-<img height=50% width=50% src="https://github.com/Balachandran143/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118886489/cc76ea0a-6406-4a39-b245-f00b73daa8cb">
+<img src="https://github.com/Balachandran143/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118886489/cc76ea0a-6406-4a39-b245-f00b73daa8cb" height=450 width=450>
 
  
 ## Result :
